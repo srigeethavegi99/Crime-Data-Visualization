@@ -72,13 +72,13 @@ git clone https://github.com/srigeethavegi99/crime-data-visualization.git
 cd crime-data-visualization
 
 # Install dependencies
-pip install -r 
+pip install  
 
 # Run Jupyter Notebook
 jupyter notebook
 ```
 
-## 🙏 Acknowledgments
+## Acknowledgments
 - 🚓 Boston Police Department for making the dataset available
 - 🏆 Kaggle for hosting the data
 - 📚 Referenced research: "Big Data Analytics and Mining for Effective Visualization and Trends Forecasting of Crime Data" (Feng et al., 2019)
